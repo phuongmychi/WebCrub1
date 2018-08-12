@@ -1,7 +1,7 @@
 <%-- 
     Document   : AddUser
     Created on : Aug 4, 2018, 12:04:48 PM
-    Author     : admin
+    Author     : www.24hgame.vn
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
